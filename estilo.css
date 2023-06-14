@@ -1,0 +1,58 @@
+body {
+    background-color: #1C1C1C;
+    margin-left: 230px;
+    margin-right: 500px;
+}
+
+img {
+    margin-right: 40px;
+    margin-bottom: 120px;
+    margin-top: 30px;
+}
+
+.anna {
+    margin-top: 50px;
+}
+
+.andrey {
+    margin-top: auto;
+}
+
+.ciberf {
+    margin-top: auto;
+}
+
+.nome {
+    color:wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+}
+
+h1 {
+    color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+h3 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+p {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+
+a {
+    color:cadetblue;
+    margin-bottom: 120px;
+}
